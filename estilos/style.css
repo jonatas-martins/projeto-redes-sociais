@@ -41,7 +41,12 @@ main {
 }
 
 #redes-sociais {
-  text-align: right;
+  position: absolute;
+  right: 10%;
+  bottom: 30%;
+
+  height: 471px;
+  max-width: 50px;
 }
 
 #redes-sociais img {
